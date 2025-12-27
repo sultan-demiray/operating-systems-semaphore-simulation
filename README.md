@@ -43,5 +43,6 @@ Konsol üzerinden hasta akış ve durum logları
 
 Sistem sonunda tüm hastaların tamamlandığını gösteren bilgilendirme
 
+
 Not:
 Bu proje, İşletim Sistemleri / Eşzamanlı Programlama konularında Semaphore kullanımını ve öncelikli planlamayı pekiştirmek amacıyla geliştirilmiştir.
